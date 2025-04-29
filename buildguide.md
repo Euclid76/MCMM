@@ -1,4 +1,4 @@
-# MIDIボリュームミキサー組み立てガイド
+# MCMM ビルドガイド
 
 ![外観](images/front.jpg)
 
