@@ -103,7 +103,7 @@
 ### 1. リリースページからファームウェアをダウンロード  
 リリースページ、または下記リンクからファームウェア（firmware.uf2）をダウンロードしてください。  
 👉️[コチラからダウンロード](https://github.com/Euclid76/MCMM/releases/download/v1.0.0/firmware.uf2)  
-![ダウンロード画面](images/firmware/01.jpg)
+<img src="images/firmware/01.jpg" alt="ダウンロード画面" width="80%">  
 
 ### 2. マイコンをブートモードでPCに接続  
 ブートボタンを**押しながら**USBでPCに接続すると、自動的にフォルダが開きます。  
