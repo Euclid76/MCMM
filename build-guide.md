@@ -170,7 +170,7 @@ midi-mixer://share/f4223981ee6e9343f32311bf2d4a330d
 ![スタートアップ設定](images/settings/08.jpg)
 
 ### ※より詳細な設定方法  
-より詳しい割り当て方法や各種設定については、[midi mixer help](https://docs.midi-mixer.com/) をご確認ください。  
+より詳しい割り当て方法や各種設定については、[MIDI mixer help](https://docs.midi-mixer.com/) をご確認ください。  
 ご要望が多ければ、簡易マニュアルを別途作成するかもしれません。
 
 
@@ -182,6 +182,6 @@ midi-mixer://share/f4223981ee6e9343f32311bf2d4a330d
 お疲れさまでした！
 
 使用してみた感想などお待ちしております。  
-ご意見・ご要望がありましたら、[X（旧Twitter）@your_account](https://x.com/your_account) までお知らせください。
+ご意見・ご要望などありましたら、[X（旧Twitter）@your_account](https://x.com/your_account) までお知らせください。
 
 
