@@ -1,6 +1,6 @@
 # MCMM ビルドガイド
 
-※作業に取り掛かる前に、[README]([リンク先URL](https://github.com/Euclid76/MCMM)) に記載されている部品リストを確認し、必要な部品が揃っていることを確認してください。  
+※作業に取り掛かる前に、[README](https://github.com/Euclid76/MCMM) に記載されている部品リストを確認し、必要な部品が揃っていることを確認してください。  
 ![部品一覧](images/assembly/partsset.JPG)
 
 
@@ -183,6 +183,6 @@ midi-mixer://share/f4223981ee6e9343f32311bf2d4a330d
 お疲れさまでした！
 
 使用してみた感想などお待ちしております。  
-ご意見・ご要望などありましたら、[X（旧Twitter）@your_account](https://x.com/your_account) までお知らせください。
+ご意見・ご要望などありましたら、[X（旧Twitter）@Euclid76](https://x.com/Euclid76) までお知らせください。
 
 
