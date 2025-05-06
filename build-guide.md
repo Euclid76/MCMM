@@ -1,7 +1,7 @@
 # MCMM ビルドガイド
 
 ※作業に取り掛かる前に、[README](https://github.com/Euclid76/MCMM) に記載されている部品リストを確認し、必要な部品が揃っていることを確認してください。  
-![部品一覧](images/assembly/partsset.JPG)
+![部品一覧](images/parts-set.jpg)
 
 
 ## 1️⃣はんだ付けと組み立て
