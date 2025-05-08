@@ -54,7 +54,7 @@ Windows10/11 対応。
 - マスキングテープ（部品仮止め用に便利です）
 
 ## 🛒 購入先
-[Booth](https://euclid76.booth.pm/items/6890234)  
+[BOOTH](https://euclid76.booth.pm/items/6890234)  
 
 ## 🎹 MIDI信号仕様
 
