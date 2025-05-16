@@ -101,7 +101,7 @@
 
 ## 2️⃣ ファームウェアの書き込み
 
-### 1. リリースページからファームウェアをダウンロード  
+### 1. ファームウェアをダウンロード  
 リリースページ、または下記リンクからファームウェア（firmware.uf2）をダウンロードしてください。  
 <br>
 👉️[コチラからダウンロード](https://github.com/Euclid76/MCMM/releases/download/v1.0.0/firmware.uf2)  
@@ -114,7 +114,7 @@
 フォルダの名前は **`RPI-RP2`** です。開いたらボタンから手を離しても大丈夫です。  
 ![接続時の画面](images/firmware/02.jpg)
 
-### 3. ファームウェアの転送  
+### 3. ファームウェアの転送（書き込み）  
 ダウンロードしたファームウェアファイル（`firmware.uf2`）を、開いたフォルダにドラッグ＆ドロップします。  
 <img src="images/firmware/03.jpg" alt="ドラッグ＆ドロップ" width="80%">
 
@@ -130,7 +130,7 @@
 
 ### 1. MIDI Mixer のインストール  
 [MIDI Mixer](https://midi-mixer.com/) をダウンロード・インストールしてください。  
-または、Microsoft Storeで「MIDI Mixer」と検索してインストールすることもできます。  
+Microsoft Storeで「MIDI Mixer」と検索しても出てくるので、そちらでインストールすることもできます。  
 ![インストール](images/settings/01.jpg)
 
 ### 2. MIDI Mixer を起動  
